@@ -1,16 +1,16 @@
 # awesome-academic-graph
 Awesome list for Microsoft Academic Graph (MAG)
 
-## Comparison with similar Data Sources
-- [Publish or Perish version 6](https://harzing.com/blog/2017/11/publish-or-perish-version-6)
 
-## About MAG
+## About MAG: comparisons, coverage etc.
 
-- [Cost of tracking research trends and impacts with Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/academic/articles/cost-of-tracking-research-trends-and-impacts-with-microsoft-academic-graph/)
-- [An Analysis of the Microsoft Academic Graph (Sept 2016)](http://www.dlib.org/dlib/september16/herrmannova/09herrmannova.html)
-- [The coverage of Microsoft Academic: Analyzing the publication output of auniversity](https://arxiv.org/ftp/arxiv/papers/1703/1703.05539.pdf)
-<!-- - [Comparison of Microsoft Academic (Graph) with Web of Science, Scopus and Google Scholar](https://eprints.soton.ac.uk/408647/1/microsoft_academic_msc.pdf) -->
+- [Cost of tracking research trends and impacts with Microsoft Academic Graph (Feb 2019)](https://www.microsoft.com/en-us/research/project/academic/articles/cost-of-tracking-research-trends-and-impacts-with-microsoft-academic-graph/)
+- [Publish or Perish version 6 (Nov 2017)](https://harzing.com/blog/2017/11/publish-or-perish-version-6)
 - [Microsoft Academic: A multidisciplinary comparison of citation counts with Scopus and Mendeley for 29 journals (Nov, 2017)](https://arxiv.org/ftp/arxiv/papers/1711/1711.08767.pdf)
+- [The coverage of Microsoft Academic: Analyzing the publication output of auniversity (Sep 2017)](https://arxiv.org/ftp/arxiv/papers- [An Analysis of the Microsoft Academic Graph (Sept 2016)](http://www.dlib.org/dlib/september16/herrmannova/09herrmannova.html)
+/1703/1703.05539.pdf)
+- [Eight Years of WSDM: Increasing Influence and Diversifying Heritage (Feb 2016)](http://cm.cecs.anu.edu.au/post/citation_analysis/)
+<!-- - [Comparison of Microsoft Academic (Graph) with Web of Science, Scopus and Google Scholar](https://eprints.soton.ac.uk/408647/1/microsoft_academic_msc.pdf) -->
 
 ## Analyses using MAG
 
