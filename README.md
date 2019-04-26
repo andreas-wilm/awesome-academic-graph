@@ -14,6 +14,7 @@ Awesome list for Microsoft Academic Graph (MAG)
 
 ## Analyses using MAG
 
+- [Analytics & Visualization Samples for Academic Graph](https://github.com/Azure-Samples/academic-knowledge-analytics-visualization)
 - [China to Overtake US in AI Research](https://medium.com/ai2-blog/china-to-overtake-us-in-ai-research-8b6b1fe30595)
 - [A Century of Science: Globalization of Scientific Collaborations,Citations, and Innovations](https://arxiv.org/pdf/1704.05150.pdf)
 - [Visualizing Citation Patterns of Computer Science Conferences](http://cm.cecs.anu.edu.au/post/citation_vis/)
