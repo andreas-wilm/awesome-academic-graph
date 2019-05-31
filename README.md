@@ -4,6 +4,8 @@ Awesome list for Microsoft Academic Graph (MAG)
 
 ## About MAG: comparisons, coverage etc.
 
+- [Two new kids on the block: How do Crossref and Dimensions compare with Google Scholar, Microsoft
+  Academic, Scopus and the Web of Science? (May, 2019)](https://link.springer.com/article/10.1007%2Fs11192-019-03114-y)
 - [Cost of tracking research trends and impacts with Microsoft Academic Graph (Feb 2019)](https://www.microsoft.com/en-us/research/project/academic/articles/cost-of-tracking-research-trends-and-impacts-with-microsoft-academic-graph/)
 - [Publish or Perish version 6 (Nov 2017)](https://harzing.com/blog/2017/11/publish-or-perish-version-6)
 - [Microsoft Academic: A multidisciplinary comparison of citation counts with Scopus and Mendeley for 29 journals (Nov, 2017)](https://arxiv.org/ftp/arxiv/papers/1711/1711.08767.pdf)
@@ -15,11 +17,11 @@ Awesome list for Microsoft Academic Graph (MAG)
 ## Analyses using MAG
 
 - [Analytics & Visualization Samples for Academic Graph](https://github.com/Azure-Samples/academic-knowledge-analytics-visualization)
-- [China to Overtake US in AI Research](https://medium.com/ai2-blog/china-to-overtake-us-in-ai-research-8b6b1fe30595)
-- [A Century of Science: Globalization of Scientific Collaborations,Citations, and Innovations](https://arxiv.org/pdf/1704.05150.pdf)
-- [Visualizing Citation Patterns of Computer Science Conferences](http://cm.cecs.anu.edu.au/post/citation_vis/)
-- [An Overview of Microsoft Academic Service (MAS) and Applications](http://www.www2015.it/documents/proceedings/companion/p243.pdf)
-- [WSDM Cup 2016: Entity Ranking Challenge](https://dl.acm.org/citation.cfm?doid=2835776.2855119)
-- [Investigations on Rating Computer Sciences Conferences: An Experiment with the Microsoft Academic Graph Dataset](https://dl.acm.org/citation.cfm?doid=2872518.2890525)
+- [China to Overtake US in AI Research (March, 2019)](https://medium.com/ai2-blog/china-to-overtake-us-in-ai-research-8b6b1fe30595)
 - [Microsoft Academic: Is the Phoenix getting wings? (Nov 2017)](https://mdxminds.com/2016/11/17/microsoft-academic-is-the-phoenix-getting-wings/)
+- [A Century of Science: Globalization of Scientific Collaborations,Citations, and Innovationsi (Aug, 2017)](https://arxiv.org/pdf/1704.05150.pdf)
+- [Visualizing Citation Patterns of Computer Science Conferences (Aug, 2016)](http://cm.cecs.anu.edu.au/post/citation_vis/)
+- [Investigations on Rating Computer Sciences Conferences: An Experiment with the Microsoft Academic Graph Dataset (Apr, 2016)](https://dl.acm.org/citation.cfm?doid=2872518.2890525)
+- [WSDM Cup 2016: Entity Ranking Challengei (Feb, 2016)](https://dl.acm.org/citation.cfm?doid=2835776.2855119)
+- [An Overview of Microsoft Academic Service (MAS) and Applications (May, 2015)](http://www.www2015.it/documents/proceedings/companion/p243.pdf)
 - [Citation recommendation of 80 Million papers using Graph DB(Neo-4J)](http://abhie19.github.io/MS_Academic_Graph/)
