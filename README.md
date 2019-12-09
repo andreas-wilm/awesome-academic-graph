@@ -1,7 +1,6 @@
 # awesome-academic-graph
 Awesome list for Microsoft Academic Graph (MAG)
 
-
 ## About MAG: comparisons, coverage etc.
 
 - [Two new kids on the block: How do Crossref and Dimensions compare with Google Scholar, Microsoft
@@ -13,6 +12,8 @@ Awesome list for Microsoft Academic Graph (MAG)
 - [An Analysis of the Microsoft Academic Graph (Sept 2016)](http://www.dlib.org/dlib/september16/herrmannova/09herrmannova.html)
 - [Eight Years of WSDM: Increasing Influence and Diversifying Heritage (Feb 2016)](http://cm.cecs.anu.edu.au/post/citation_analysis/)
 <!-- - [Comparison of Microsoft Academic (Graph) with Web of Science, Scopus and Google Scholar](https://eprints.soton.ac.uk/408647/1/microsoft_academic_msc.pdf) -->
+- [A Review of Microsoft Academic Services for Science of Science Studies (Dec 2019)](https://www.frontiersin.org/articles/10.3389/fdata.2019.00045/full)
+
 
 ## Analyses using MAG
 
