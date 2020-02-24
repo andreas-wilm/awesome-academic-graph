@@ -13,6 +13,7 @@ Awesome list for Microsoft Academic Graph (MAG)
 - [Eight Years of WSDM: Increasing Influence and Diversifying Heritage (Feb 2016)](http://cm.cecs.anu.edu.au/post/citation_analysis/)
 <!-- - [Comparison of Microsoft Academic (Graph) with Web of Science, Scopus and Google Scholar](https://eprints.soton.ac.uk/408647/1/microsoft_academic_msc.pdf) -->
 - [A Review of Microsoft Academic Services for Science of Science Studies (Dec 2019)](https://www.frontiersin.org/articles/10.3389/fdata.2019.00045/full)
+- [CWTS: Mapping science using Microsoft Academic data](https://www.cwts.nl/blog?article=n-r2x284)
 
 
 ## Analyses using MAG
